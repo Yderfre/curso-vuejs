@@ -4,7 +4,7 @@
 
     <div class="center">
       <section id="content">
-        <h2 class="subheader">Blog</h2>
+        <h2 class="subheader">Blog23</h2>
       </section>
       <Sidebar></Sidebar>
       <div class="clearfix"></div>

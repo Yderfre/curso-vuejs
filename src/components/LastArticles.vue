@@ -4,7 +4,7 @@
 
     <div class="center">
       <section id="content">
-        <h2 class="subheader">Últimos artículos</h2>
+        <h2 class="subheader">Últimos artículos2</h2>
 
         <!--Listado articulos-->
         <div id="articles">

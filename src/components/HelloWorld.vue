@@ -19,7 +19,7 @@ export default {
 
   data() {
     return {
-      texto: 'Hola Mundo desde El componente',
+      texto: 'Hola Mundo desde El componente dos veces',
     };
   },
 };

@@ -2,7 +2,7 @@
   <footer id="footer">
     <div class="center">
       <p>
-        &copy; Máster en frameworks para JavaScript
+        &copy; Máster en frameworks para JavaScript Fredy Rivera
       </p>
     </div>
   </footer>
